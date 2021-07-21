@@ -1,0 +1,14 @@
+[
+    {
+        "dni": "1",
+        "name": "moshe",
+        "age": "23",
+        "nacionalidad": "argentino"
+    },
+    {
+        "dni": "5",
+        "name": "jesus",
+        "age": "50",
+        "nacionalidad": "italiano"
+    }
+]
